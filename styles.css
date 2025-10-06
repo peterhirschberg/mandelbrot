@@ -1,0 +1,11 @@
+html, body {
+  touch-action: none;
+  overscroll-behavior: none;
+  -webkit-overscroll-behavior: none;
+}
+body {
+    text-align: center;
+    background-color: black;
+    padding-top: 32px;
+    overflow: hidden;
+}
